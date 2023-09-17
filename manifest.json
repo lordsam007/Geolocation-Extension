@@ -1,0 +1,16 @@
+﻿{
+  "name": "Geolocation API",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is Location Tracker",
+  "permissions": [
+    "geolocation"
+  ],
+  "action": {
+    "default_title": "I am Tracker",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "location_icon_32.png"
+    }
+  }
+}
